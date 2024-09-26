@@ -171,7 +171,7 @@ public class CodeLineCounter {
     public static void main(String[] args) {
         CodeLineCounter counter = new CodeLineCounter();
         // Replace the path below with your actual path
-        counter.countLines("C:\\Users\\Reign\\IdeaProjects\\OnTheGoRentals\\src\\main\\java\\za\\ac\\cput");
+        counter.countLines("src/main");
 
         // Call to print the grand totals only once after processing all files
         counter.printGrandTotals();
