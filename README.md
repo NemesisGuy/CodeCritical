@@ -83,7 +83,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request i
 
 - **Peter Buckingham** - [NemesisGuy](https://github.com/NemesisGuy)
 
----
+--- 
 
 ## 📄 License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE.md) file for details.
